@@ -1,2 +1,1 @@
-# sources
-Sources for usage
+Resources used by MineHost.pl
